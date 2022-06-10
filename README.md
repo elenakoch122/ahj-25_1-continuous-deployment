@@ -2,6 +2,8 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/nfgnckmw2hpq7fob?svg=true)](https://ci.appveyor.com/project/elenakoch122/ahj-25-1-continuous-deployment)
 
+https://elenakoch122.github.io/ahj-25_1-continuous-deployment/
+
 #### Описание
 
 Воспользуйтесь пошаговой инструкцией к лекции, чтобы развернуть тестирование, сборку и deployment на AppVeyor и GitHub Pages.
